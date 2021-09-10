@@ -8,8 +8,7 @@ import beacon
 # Opening JSON file
 f = open('heart_rate.json',"r")
 strdata = f.read()
-# returns JSON object as 
-# a dictionary
+# returns JSON object as a dictionary
 
 data = json.loads(strdata)
 # Closing file
