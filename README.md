@@ -4,6 +4,7 @@ Infer the large amount of data from vitals recorded
 # Requirements:
 Python 
 
+# Getting started:
 The code can be run using python virtual environment using the following instructions:
 1. Create the virtual environment: 
    python3 -m venv env
