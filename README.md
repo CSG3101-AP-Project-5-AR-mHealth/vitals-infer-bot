@@ -1,7 +1,7 @@
 # vitals-infer-bot
 Infer the large amount of data from vitals recorded
 
-#Requirements:
+# Requirements:
 Python 
 
 The code can be run using python virtual environment using the following instructions:
